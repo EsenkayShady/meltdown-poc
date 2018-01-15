@@ -62,5 +62,8 @@ physical id	: 0
 
 ```
 
-Post Vulnerable and Invulnerable Machines in Issues
+Post Vulnerable and Invulnerable Machines in Issues in the folloving links
+
+Not vulnerable- https://github.com/EsenkayShady/meltdown-poc/issues/1
+Vulnerable- https://github.com/EsenkayShady/meltdown-poc/issues/2
 # meltdown-poc
