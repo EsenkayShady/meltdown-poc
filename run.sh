@@ -47,14 +47,14 @@ if test $vuln -eq 132; then
 	echo "and run again"
 fi
 if test $vuln -eq 1; then
-	echo "PLEASE POST THIS TO https://github.com/paboldin/meltdown-exploit/issues/19"
+	echo "PLEASE POST THIS TO https://github.com/EsenkayShady/meltdown-poc/issues/1"
 	echo "VULNERABLE ON"
 	uname -rvi
 	head /proc/cpuinfo
 	exit 1
 fi
 if test $vuln -eq 0; then
-	echo "PLEASE POST THIS TO https://github.com/paboldin/meltdown-exploit/issues/22"
+	echo "PLEASE POST THIS TO https://github.com/EsenkayShady/meltdown-poc/issues/2"
 	echo "NOT VULNERABLE ON"
 	uname -rvi
 	head /proc/cpuinfo
