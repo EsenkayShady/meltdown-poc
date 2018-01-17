@@ -46,7 +46,7 @@ read ffffffff8f80006d = 20   (score=197/1000)
 read ffffffff8f80006e = 28 ( (score=239/1000)
 read ffffffff8f80006f = 64 d (score=154/1000)
 VULNERABLE
-PLEASE POST THIS TO https://github.com/paboldin/meltdown-exploit/issues/19
+PLEASE POST THIS TO https://github.com/EsenkayShady/meltdown-poc/issues/1
 VULNERABLE ON
 4.14.0-kali1-amd64 #1 SMP Debian 4.14.2-1kali1 (2017-12-04) unknown
 processor	: 0
